@@ -55,4 +55,4 @@
 
 
 - ## Final Result:-
-<br>![Alt Text](https://i.imgur.com/xGX3Afd.gif)</br>
+<br>![](Fingers_detection.gif)</br>
