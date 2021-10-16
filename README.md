@@ -15,6 +15,8 @@
 4. WebCam
 
 * ## **Roadmap**
+  ![](https://i.imgur.com/aR1ST5C.png)
+  <br>Gestures we are detecting</br>
 1.  #### Capturing a Video frame ,separating the skin color object :- 
     We take the frame and using hsv (`lower_color_range:[0,58,30] and upper_color_range:[33,255,255]`)we detect the skin color object(hand) in it and using mask extract that object from the frame.<br>
     ![](https://i.imgur.com/w6lqSId.png)<br>
