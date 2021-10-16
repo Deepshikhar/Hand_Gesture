@@ -53,5 +53,6 @@
 5. #### Finding the area of contour and hull:-
     Next we find the area of hull and area of contour which we will be used as other criteria to differentiate the other fingers number after using number of convexity defects.
 
+
 - ## Final Result:-
-![](https://i.imgur.com/pJgcOv0.gif)
+<br>![](https://i.imgur.com/xGX3Afd.gif)</br>
